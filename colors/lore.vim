@@ -1,16 +1,16 @@
 let s:theme = {}
 
-let s:theme.snow = 'f5f3f0'
+let s:theme.snow = '#f5f3f0'
 
-let s:theme.wheat = 'd6d2c9'
-let s:theme.darkwheat = 'aba8a0'
-let s:theme.darkerwheat = '807e78'
-let s:theme.darkestwheat = '555450'
+let s:theme.wheat = '#d6d2c9'
+let s:theme.darkwheat = '#aba8a0'
+let s:theme.darkerwheat = '#807e78'
+let s:theme.darkestwheat = '#555450'
 
-let s:theme.lightestonyx = '5e6165'
-let s:theme.lighteronyx = '464a4f'
-let s:theme.lightonyx = '2f3439'
-let s:theme.onyx = '14181c'
+let s:theme.lightestonyx = '#5e6165'
+let s:theme.lighteronyx = '#464a4f'
+let s:theme.lightonyx = '#2f3439'
+let s:theme.onyx = '#14181c'
 
 let s:theme.shade1 = '4cba9c'
 let s:theme.shade2 = 'fc5e03'
